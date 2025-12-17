@@ -1,0 +1,12 @@
+# Environment files
+.env
+.env.*
+
+# Node modules (frontend + backend dono)
+node_modules/
+**/node_modules/
+
+uploads/
+
+# Git related files
+!.gitignore
